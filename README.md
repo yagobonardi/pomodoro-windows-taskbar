@@ -4,7 +4,7 @@ pomodoro app for windows taskbar, changing colors to notify you without boring a
 
 ![start a cycle](https://user-images.githubusercontent.com/30670318/106217037-22740080-61b3-11eb-8593-ca968951611f.png)
  
-![color turns red for 25 minutes](https://user-images.githubusercontent.com/30670318/106217040-230c9700-61b3-11eb-94f9-c1253a4a4c49.png)
+![color turns red for 25 minutes](https://user-images.githubusercontent.com/30670318/106217039-230c9700-61b3-11eb-8a5f-ac265750e626.png)
 
 ![color turns red for 25 minutes](https://user-images.githubusercontent.com/30670318/106217040-230c9700-61b3-11eb-94f9-c1253a4a4c49.png)
 
