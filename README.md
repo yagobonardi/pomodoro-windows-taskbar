@@ -1,6 +1,13 @@
 # pomodoro-windows-taskbar
 pomodoro app for windows taskbar, changing colors to notify you without boring alerts.
 
+circle red - pomodoro running;
+
+circle green - pomodoro ended;
+
+circle blue - break time running;
+
+the firsts 3 cycles have a 5 minutes breaks, in the fourth cycle the break its 15 minutes for default;
 
 ![start a cycle](https://user-images.githubusercontent.com/30670318/106217037-22740080-61b3-11eb-8593-ca968951611f.png)
  
